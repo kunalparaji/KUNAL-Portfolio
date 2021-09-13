@@ -1,0 +1,17 @@
+body{
+    background-color: #808080;
+    
+}
+h1{
+    font-size: 35px;
+    color: #2212ff;
+    font-family:cursive;
+}
+*{
+    border:solid;
+}
+.header{
+    background-color: #12ADFF;
+    display:flex;
+    justify-content:space-between;
+}
